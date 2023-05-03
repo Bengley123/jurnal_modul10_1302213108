@@ -1,0 +1,12 @@
+C:\Users\PRAKTIKAN\Downloads\jurnal_modul10_1302213108\jurnal_modul10_1302213108\bin\Debug\net6.0\MatematikaLibrary.deps.json
+C:\Users\PRAKTIKAN\Downloads\jurnal_modul10_1302213108\jurnal_modul10_1302213108\bin\Debug\net6.0\MatematikaLibrary.dll
+C:\Users\PRAKTIKAN\Downloads\jurnal_modul10_1302213108\jurnal_modul10_1302213108\bin\Debug\net6.0\MatematikaLibrary.pdb
+C:\Users\PRAKTIKAN\Downloads\jurnal_modul10_1302213108\jurnal_modul10_1302213108\obj\Debug\net6.0\MatematikaLibrary.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\Downloads\jurnal_modul10_1302213108\jurnal_modul10_1302213108\obj\Debug\net6.0\MatematikaLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAKTIKAN\Downloads\jurnal_modul10_1302213108\jurnal_modul10_1302213108\obj\Debug\net6.0\MatematikaLibrary.AssemblyInfoInputs.cache
+C:\Users\PRAKTIKAN\Downloads\jurnal_modul10_1302213108\jurnal_modul10_1302213108\obj\Debug\net6.0\MatematikaLibrary.AssemblyInfo.cs
+C:\Users\PRAKTIKAN\Downloads\jurnal_modul10_1302213108\jurnal_modul10_1302213108\obj\Debug\net6.0\MatematikaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\Downloads\jurnal_modul10_1302213108\jurnal_modul10_1302213108\obj\Debug\net6.0\MatematikaLibrary.dll
+C:\Users\PRAKTIKAN\Downloads\jurnal_modul10_1302213108\jurnal_modul10_1302213108\obj\Debug\net6.0\refint\MatematikaLibrary.dll
+C:\Users\PRAKTIKAN\Downloads\jurnal_modul10_1302213108\jurnal_modul10_1302213108\obj\Debug\net6.0\MatematikaLibrary.pdb
+C:\Users\PRAKTIKAN\Downloads\jurnal_modul10_1302213108\jurnal_modul10_1302213108\obj\Debug\net6.0\ref\MatematikaLibrary.dll

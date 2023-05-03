@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PRAKTIKAN\\Downloads\\jurnal_modul10_1302213108\\jurnal_modul10_1302213108\\jurnal_modul10_1302213108.csproj": {}
+    "C:\\Users\\PRAKTIKAN\\Downloads\\jurnal_modul10_1302213108\\jurnal_modul10_1302213108\\MatematikaLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PRAKTIKAN\\Downloads\\jurnal_modul10_1302213108\\jurnal_modul10_1302213108\\jurnal_modul10_1302213108.csproj": {
+    "C:\\Users\\PRAKTIKAN\\Downloads\\jurnal_modul10_1302213108\\jurnal_modul10_1302213108\\MatematikaLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PRAKTIKAN\\Downloads\\jurnal_modul10_1302213108\\jurnal_modul10_1302213108\\jurnal_modul10_1302213108.csproj",
-        "projectName": "jurnal_modul10_1302213108",
-        "projectPath": "C:\\Users\\PRAKTIKAN\\Downloads\\jurnal_modul10_1302213108\\jurnal_modul10_1302213108\\jurnal_modul10_1302213108.csproj",
+        "projectUniqueName": "C:\\Users\\PRAKTIKAN\\Downloads\\jurnal_modul10_1302213108\\jurnal_modul10_1302213108\\MatematikaLibrary.csproj",
+        "projectName": "MatematikaLibrary",
+        "projectPath": "C:\\Users\\PRAKTIKAN\\Downloads\\jurnal_modul10_1302213108\\jurnal_modul10_1302213108\\MatematikaLibrary.csproj",
         "packagesPath": "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\PRAKTIKAN\\Downloads\\jurnal_modul10_1302213108\\jurnal_modul10_1302213108\\obj\\",
         "projectStyle": "PackageReference",

@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "MatematikaLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MatematikaLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MatematikaLibrary.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MatematikaLibrary/1.0.0": {
+      "type": "project",
+      "path": "../jurnal_modul10_1302213108/MatematikaLibrary.csproj",
+      "msbuildProject": "../jurnal_modul10_1302213108/MatematikaLibrary.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "MatematikaLibrary >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PRAKTIKAN\\Downloads\\jurnal_modul10_1302213108\\jurnal_modul10_1302213108\\MatematikaLibrary.csproj",
-      "projectName": "MatematikaLibrary",
-      "projectPath": "C:\\Users\\PRAKTIKAN\\Downloads\\jurnal_modul10_1302213108\\jurnal_modul10_1302213108\\MatematikaLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\PRAKTIKAN\\Downloads\\jurnal_modul10_1302213108\\jurnal_mod10_1302213108\\jurnal_mod10_1302213108.csproj",
+      "projectName": "jurnal_mod10_1302213108",
+      "projectPath": "C:\\Users\\PRAKTIKAN\\Downloads\\jurnal_modul10_1302213108\\jurnal_mod10_1302213108\\jurnal_mod10_1302213108.csproj",
       "packagesPath": "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PRAKTIKAN\\Downloads\\jurnal_modul10_1302213108\\jurnal_modul10_1302213108\\obj\\",
+      "outputPath": "C:\\Users\\PRAKTIKAN\\Downloads\\jurnal_modul10_1302213108\\jurnal_mod10_1302213108\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PRAKTIKAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\PRAKTIKAN\\Downloads\\jurnal_modul10_1302213108\\jurnal_modul10_1302213108\\MatematikaLibrary.csproj": {
+              "projectPath": "C:\\Users\\PRAKTIKAN\\Downloads\\jurnal_modul10_1302213108\\jurnal_modul10_1302213108\\MatematikaLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
